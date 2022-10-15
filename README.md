@@ -1,4 +1,4 @@
-# **Capstone 2 - Owl City Partners**
+# **Capstone 2 - City Owl Partners**
 
 
 # **Problem Statement**
